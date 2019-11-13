@@ -8,6 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="16452188-56c2-4db2-b44a-c50b51aa196b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/login.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/login.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFProject/view/login.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFProject/view/login.xhtml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573558468506</updated>
       <workItem from="1573558475107" duration="11272000" />
-      <workItem from="1573636673692" duration="6486000" />
+      <workItem from="1573636673692" duration="6976000" />
     </task>
     <servers />
   </component>
