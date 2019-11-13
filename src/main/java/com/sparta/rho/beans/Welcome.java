@@ -17,6 +17,9 @@ public class Welcome {
     }
 
     public String nextScreen() {
+        if (path == null) {
+            return "signIn";
+        }
         if (path.equals("1")) {
             return "register";
         } else {

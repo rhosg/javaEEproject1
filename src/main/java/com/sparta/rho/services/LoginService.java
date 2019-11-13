@@ -7,7 +7,7 @@ public class LoginService {
         if (user.getUserName().equals("rich20") && user.getPassword().equals("password123")){
             return "welcome";
         } else {
-            return "login";
+            return "wronglogin";
         }
     }
 }

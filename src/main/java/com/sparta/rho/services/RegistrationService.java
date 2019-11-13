@@ -16,7 +16,7 @@ public class RegistrationService {
                 || user.getSurname().equals("")){
             return "register";
         } else {
-            return "signIn";
+            return "newUserRegistered";
         }
 
     }
